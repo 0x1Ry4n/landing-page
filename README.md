@@ -1,6 +1,6 @@
 JS-Mastery ⚛️ React Landing page video clone  
 
-<b>🚀 Features:</b>
+<b>🖥️ Features:</b>
 <ul>
     <li>✔️ Vite</li>
     <li>✔️ React.js</li>    
@@ -12,6 +12,14 @@ JS-Mastery ⚛️ React Landing page video clone
     <li>Run <code>npm install</code> to install all dependencies.</li>
     <li>Run <code>npm run dev</code> to start in development environment.</li>
 </ul>
+
+
+<b>🚀 Deploy: </b>
+<ul>
+    <li>https://l4ndingpage.netlify.app</li>
+</ul>
+
+
 
 
 
