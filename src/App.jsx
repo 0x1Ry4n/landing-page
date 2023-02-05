@@ -20,7 +20,6 @@ const App = () => {
     Aos.init({
       duration: 2000,
     });
-    Aos.refresh();
   }, []);
   return (
     <div className="bg-primary w-full overflow-hidden">
