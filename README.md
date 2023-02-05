@@ -1,3 +1,3 @@
 #Landing-page 
 
-JS-Mastery Landing page video clone  
+JS-Mastery React Landing page video clone  
