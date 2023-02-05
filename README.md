@@ -5,6 +5,7 @@ JS-Mastery ⚛️ React Landing page video clone
 <p>✔️ React.js</p>    
 <p>✔️ Tailwind css</p> 
 
+
 <b>🔨 Build: </b>
 <ul>
     <li>Run <code>npm install</code> to install all dependencies.</li>
