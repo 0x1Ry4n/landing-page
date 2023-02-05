@@ -1,14 +1,17 @@
 JS-Mastery ⚛️ React Landing page video clone  
 
-<ul><li><b>🚀 Features:</b></li></ul>
-✔️ Vite
-✔️ React.js
-✔️ Tailwind css 
+<b>🚀 Features:</b>
+<ul>
+    <li>✔️ Vite</li>
+    <li>✔️ React.js</li>    
+    <li>✔️ Tailwind css</li> 
+</ul>
 
-<ul><li><b>🔨 Build: </b></li></ul>
-Run <code>npm install</code> to install all dependencies.
-Run <code>npm run dev</code> to start in development environment.
-
+<b>🔨 Build: </b>
+<ul>
+    <li>Run <code>npm install</code> to install all dependencies.</li>
+    <li>Run <code>npm run dev</code> to start in development environment.</li>
+</ul>
 
 
 
